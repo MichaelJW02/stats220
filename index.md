@@ -1,4 +1,4 @@
-
+```
 # Assignment 1A 
 ## *By Michael Walker*
 **My meme**
@@ -15,3 +15,4 @@ There were a few things that inspired me to make the meme that I did
 1. Frustrations with having to do group work via zoom
 2.  Wanting to use orginal images for my meme, rather than just using a combination of images that had already been done
 3.  I just think the images are funny
+```
