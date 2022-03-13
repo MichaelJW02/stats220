@@ -1,6 +1,7 @@
 
-# Assignment 1A - ** My meme **
+# Assignment 1A 
 ## *By Michael Walker*
+**My meme**
 ![](my_meme.jpeg)
 
 The places I found the images for this meme
