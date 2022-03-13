@@ -3,7 +3,7 @@
 ## *By Michael Walker*
 **My meme**
 
-![](my_meme.jpeg)
+![](My_Meme.png)
 
 The places I found the images for this meme
 * I saw the first image on social media while scrolling through an accounts feed
