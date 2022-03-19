@@ -16,6 +16,7 @@ There were a few things that inspired me to make the meme that I did
 2.  Wanting to use orginal images for my meme, rather than just using a combination of images that had already been done
 3.  I just think the images are funny
 
+![](https://tenor.com/view/school-breakout-room-google-meets-online-school-gif-21244318)
 ```
 library(magick)
 #square one
