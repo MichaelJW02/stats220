@@ -17,6 +17,7 @@ There were a few things that inspired me to make the meme that I did
 3.  I just think the images are funny
 
 ![](https://tenor.com/view/school-breakout-room-google-meets-online-school-gif-21244318)
+
 ```
 library(magick)
 #square one
